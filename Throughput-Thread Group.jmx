@@ -32,7 +32,7 @@
           <intProp name="ThroughputController.maxThroughput">100</intProp>
           <FloatProperty>
             <name>ThroughputController.percentThroughput</name>
-            <value>100.0</value>
+            <value>50.0</value>
             <savedValue>0.0</savedValue>
           </FloatProperty>
         </ThroughputController>

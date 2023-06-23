@@ -45,7 +45,11 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller" enabled="true">
+        <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller-Login" enabled="true">
+          <stringProp name="IncludeController.includepath">C:\Users\bhask\OneDrive\Desktop\JmeterExam\ReuseableScript1.jmx</stringProp>
+        </IncludeController>
+        <hashTree/>
+        <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller-Home" enabled="true">
           <stringProp name="IncludeController.includepath">C:\Users\bhask\OneDrive\Desktop\JmeterExam\ReuseableScript1.jmx</stringProp>
         </IncludeController>
         <hashTree/>
